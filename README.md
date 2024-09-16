@@ -1,4 +1,4 @@
-# PowerBi_ATM cash flow (cash In cash OUT)
+# PowerBi_ATM cash flow 
 
 This ATM Cash Flow Dashboard provides a comprehensive view of cash management in ATMs, tracking both cash inflow and outflow over time. This tool helps ATM managers and financial teams predict and ensure optimal cash levels, prevent shortages or surpluses, and monitor overall ATM performance.
 
