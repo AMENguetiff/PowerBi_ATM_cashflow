@@ -6,5 +6,8 @@ This ATM Cash Flow Dashboard provides a comprehensive view of cash management in
 The data is pulled from ATM transaction records, cash replenishment logs, and historical usage patterns. It updates automatically as new transaction data becomes available, ensuring real-time monitoring and decision-making.
 Below are example screenshots from the dashboard:
 1. Cash In Cash Out
-2. ATMs Replenishment
-3. ATMs Prediction
+
+   ![Uploading image.png…]()
+
+3. ATMs Replenishment
+4. ATMs Prediction
