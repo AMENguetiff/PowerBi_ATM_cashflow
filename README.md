@@ -7,12 +7,10 @@ The data is pulled from ATM transaction records, cash replenishment logs, and hi
 
 ## Visual Example
 Below are example screenshots from the dashboard:
-1. Cash In Cash Out
-![image](https://github.com/user-attachments/assets/7da6b6cd-6c77-4535-9943-b59ba45b58ec)
 
-3. ATMs Replenishment
+1. ATMs Replenishment
 ![image](https://github.com/user-attachments/assets/f8b78d65-65fb-44a7-85d2-7ce37adf5e55)
 
-5. ATMs Prediction
+2. ATMs Prediction
 ![image](https://github.com/user-attachments/assets/159458df-c744-4195-b954-19fc74a4db45)
 
