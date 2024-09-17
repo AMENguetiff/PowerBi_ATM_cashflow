@@ -9,7 +9,7 @@ The data is pulled from ATM transaction records, cash replenishment logs, and hi
 Below are example screenshots from the dashboard:
 
 1. ATMs Replenishment
-![image](https://github.com/user-attachments/assets/f8b78d65-65fb-44a7-85d2-7ce37adf5e55)
+![image](https://github.com/user-attachments/assets/165eacbd-29e5-4a07-ba65-5c73c34e692b)
 
 2. ATMs Prediction
 ![image](https://github.com/user-attachments/assets/159458df-c744-4195-b954-19fc74a4db45)
