@@ -12,5 +12,5 @@ Below are example screenshots from the dashboard:
 ![image](https://github.com/user-attachments/assets/165eacbd-29e5-4a07-ba65-5c73c34e692b)
 
 2. ATMs Prediction
-![image](https://github.com/user-attachments/assets/159458df-c744-4195-b954-19fc74a4db45)
+![image](https://github.com/user-attachments/assets/0556a9fa-ae5e-475f-8677-cde56cf87cf9)
 
